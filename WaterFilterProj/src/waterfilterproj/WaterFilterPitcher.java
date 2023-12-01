@@ -1,3 +1,4 @@
+//Author: Ethan Narkiewicz
 package waterfilterproj;
 
 public class WaterFilterPitcher 
