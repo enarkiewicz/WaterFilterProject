@@ -1,3 +1,4 @@
+//Author: Ethan Narkiewicz
 package waterfilterproj;
 import java.util.Scanner;
 
